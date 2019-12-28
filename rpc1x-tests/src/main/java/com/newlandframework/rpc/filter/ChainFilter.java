@@ -15,8 +15,8 @@
  */
 package com.newlandframework.rpc.filter;
 
-import com.newlandframework.rpc.core.ModuleInvoker;
-import com.newlandframework.rpc.model.MessageRequest;
+import org.hotwheel.rpc1x.core.ModuleInvoker;
+import org.hotwheel.rpc1x.model.MessageRequest;
 
 /**
  * @author tangjie<https://github.com/tang-jie>

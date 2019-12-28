@@ -15,7 +15,7 @@
  */
 package com.newlandframework.test.jdbc;
 
-import com.newlandframework.rpc.exception.InvokeModuleException;
+import org.hotwheel.rpc1x.exception.InvokeModuleException;
 import com.newlandframework.rpc.services.JdbcPersonManage;
 import com.newlandframework.rpc.services.pojo.Person;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

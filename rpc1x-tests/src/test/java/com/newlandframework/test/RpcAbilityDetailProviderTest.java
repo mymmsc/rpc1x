@@ -15,7 +15,7 @@
  */
 package com.newlandframework.test;
 
-import com.newlandframework.rpc.core.AbilityDetail;
+import org.hotwheel.rpc1x.core.AbilityDetail;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**

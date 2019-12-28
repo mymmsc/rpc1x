@@ -15,6 +15,8 @@
  */
 package com.newlandframework.rpc.event;
 
+import org.hotwheel.rpc1x.event.AbstractInvokeEventBus;
+
 import java.util.Observable;
 
 /**

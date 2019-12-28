@@ -18,7 +18,7 @@ package com.newlandframework.rpc.spring;
 import com.newlandframework.rpc.event.ServerStartEvent;
 import com.newlandframework.rpc.filter.ServiceFilterBinder;
 import com.newlandframework.rpc.filter.Filter;
-import com.newlandframework.rpc.netty.MessageRecvExecutor;
+import org.hotwheel.rpc1x.netty.MessageRecvExecutor;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;

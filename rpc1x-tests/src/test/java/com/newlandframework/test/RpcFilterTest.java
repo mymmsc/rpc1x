@@ -15,7 +15,7 @@
  */
 package com.newlandframework.test;
 
-import com.newlandframework.rpc.exception.RejectResponeException;
+import org.hotwheel.rpc1x.exception.RejectResponeException;
 import com.newlandframework.rpc.services.Cache;
 import com.newlandframework.rpc.services.Store;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

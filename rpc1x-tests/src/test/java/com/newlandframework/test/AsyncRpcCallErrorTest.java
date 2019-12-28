@@ -15,10 +15,10 @@
  */
 package com.newlandframework.test;
 
-import com.newlandframework.rpc.async.AsyncCallObject;
-import com.newlandframework.rpc.async.AsyncCallback;
-import com.newlandframework.rpc.async.AsyncInvoker;
-import com.newlandframework.rpc.exception.AsyncCallException;
+import org.hotwheel.rpc1x.async.AsyncCallObject;
+import org.hotwheel.rpc1x.async.AsyncCallback;
+import org.hotwheel.rpc1x.async.AsyncInvoker;
+import org.hotwheel.rpc1x.exception.AsyncCallException;
 import com.newlandframework.rpc.services.CostTimeCalculate;
 import com.newlandframework.rpc.services.pojo.CostTime;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

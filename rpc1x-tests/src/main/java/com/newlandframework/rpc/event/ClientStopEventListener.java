@@ -16,7 +16,7 @@
 package com.newlandframework.rpc.event;
 
 import com.google.common.eventbus.Subscribe;
-import com.newlandframework.rpc.netty.MessageSendExecutor;
+import org.hotwheel.rpc1x.netty.MessageSendExecutor;
 
 /**
  * @author tangjie<https://github.com/tang-jie>

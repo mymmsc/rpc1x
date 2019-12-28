@@ -15,10 +15,10 @@
  */
 package com.newlandframework.rpc.filter;
 
-import com.newlandframework.rpc.core.Modular;
-import com.newlandframework.rpc.core.ModuleInvoker;
-import com.newlandframework.rpc.core.ModuleProvider;
-import com.newlandframework.rpc.model.MessageRequest;
+import org.hotwheel.rpc1x.core.Modular;
+import org.hotwheel.rpc1x.core.ModuleInvoker;
+import org.hotwheel.rpc1x.core.ModuleProvider;
+import org.hotwheel.rpc1x.model.MessageRequest;
 
 import java.util.List;
 

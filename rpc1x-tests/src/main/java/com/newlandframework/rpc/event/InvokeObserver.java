@@ -15,7 +15,8 @@
  */
 package com.newlandframework.rpc.event;
 
-import com.newlandframework.rpc.jmx.ModuleMetricsVisitor;
+import org.hotwheel.rpc1x.event.AbstractInvokeEventBus;
+import org.hotwheel.rpc1x.jmx.ModuleMetricsVisitor;
 
 import java.util.Observable;
 

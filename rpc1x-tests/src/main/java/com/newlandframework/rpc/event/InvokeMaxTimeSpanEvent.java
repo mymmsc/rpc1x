@@ -15,6 +15,8 @@
  */
 package com.newlandframework.rpc.event;
 
+import org.hotwheel.rpc1x.event.AbstractInvokeEventBus;
+
 import javax.management.AttributeChangeNotification;
 import javax.management.Notification;
 import java.util.concurrent.atomic.AtomicLong;

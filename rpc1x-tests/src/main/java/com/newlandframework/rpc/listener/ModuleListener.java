@@ -15,8 +15,8 @@
  */
 package com.newlandframework.rpc.listener;
 
-import com.newlandframework.rpc.core.ModuleProvider;
-import com.newlandframework.rpc.model.MessageRequest;
+import org.hotwheel.rpc1x.core.ModuleProvider;
+import org.hotwheel.rpc1x.model.MessageRequest;
 
 /**
  * @author tangjie<https://github.com/tang-jie>

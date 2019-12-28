@@ -38,7 +38,7 @@
     <!--NettyRPC Listeners And FilterChain Config by tangjie-->
     <bean id="listeners" class="com.newlandframework.rpc.listener.ModuleListenerChainWrapper">
         <constructor-arg name="modular">
-            <bean class="com.newlandframework.rpc.core.DefaultModular"></bean>
+            <bean class="org.hotwheel.rpc1x.core.DefaultModular"></bean>
         </constructor-arg>
         <property name="listeners">
             <list>

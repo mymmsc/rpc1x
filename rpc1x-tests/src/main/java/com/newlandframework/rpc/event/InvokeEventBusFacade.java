@@ -15,7 +15,8 @@
  */
 package com.newlandframework.rpc.event;
 
-import com.newlandframework.rpc.jmx.ModuleMetricsHandler;
+import org.hotwheel.rpc1x.event.AbstractInvokeEventBus;
+import org.hotwheel.rpc1x.jmx.ModuleMetricsHandler;
 
 import java.util.EnumMap;
 import java.util.Map;

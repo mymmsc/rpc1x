@@ -14,9 +14,9 @@
                         protocol="PROTOSTUFFSERIALIZE" ipAddr="${rpc.server.addr}"/>
     <nettyrpc:reference id="costTime" interfaceName="com.newlandframework.rpc.services.CostTimeCalculate"
                         protocol="PROTOSTUFFSERIALIZE" ipAddr="${rpc.server.addr}"/>
-    <nettyrpc:reference id="access" interfaceName="com.newlandframework.rpc.compiler.AccessAdaptive"
+    <nettyrpc:reference id="access" interfaceName="org.hotwheel.rpc1x.compiler.AccessAdaptive"
                         protocol="PROTOSTUFFSERIALIZE" ipAddr="${rpc.server.addr}"/>
-    <nettyrpc:reference id="ability" interfaceName="com.newlandframework.rpc.core.AbilityDetail"
+    <nettyrpc:reference id="ability" interfaceName="org.hotwheel.rpc1x.core.AbilityDetail"
                         protocol="PROTOSTUFFSERIALIZE" ipAddr="${rpc.server.addr}"/>
     <nettyrpc:reference id="cache" interfaceName="com.newlandframework.rpc.services.Cache"
                         protocol="PROTOSTUFFSERIALIZE" ipAddr="${rpc.server.addr}"/>

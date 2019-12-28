@@ -15,7 +15,7 @@
  */
 package com.newlandframework.test;
 
-import com.newlandframework.rpc.exception.InvokeTimeoutException;
+import org.hotwheel.rpc1x.exception.InvokeTimeoutException;
 import com.newlandframework.rpc.services.MultiCalculate;
 
 import java.util.concurrent.CountDownLatch;

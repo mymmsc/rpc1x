@@ -16,7 +16,7 @@
 package com.newlandframework.test;
 
 import com.google.common.io.CharStreams;
-import com.newlandframework.rpc.compiler.AccessAdaptive;
+import org.hotwheel.rpc1x.compiler.AccessAdaptive;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.core.io.DefaultResourceLoader;
 

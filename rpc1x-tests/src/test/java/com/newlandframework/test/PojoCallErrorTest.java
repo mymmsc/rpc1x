@@ -15,7 +15,7 @@
  */
 package com.newlandframework.test;
 
-import com.newlandframework.rpc.exception.InvokeModuleException;
+import org.hotwheel.rpc1x.exception.InvokeModuleException;
 import com.newlandframework.rpc.services.PersonManage;
 import com.newlandframework.rpc.services.pojo.Person;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
